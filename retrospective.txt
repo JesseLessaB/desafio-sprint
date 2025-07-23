@@ -1,0 +1,14 @@
+SPRINT RETROSPECTIVE
+
+O que funcionou bem:
+- Divisão clara de tarefas em branches separadas
+- Versionamento eficiente com Git
+- Comunicação clara dos requisitos
+
+O que não funcionou bem:
+- Dificuldade inicial em resolver conflitos de merge
+- Falta de documentação detalhada dos requisitos
+
+Sugestões de melhoria:
+- Adicionar mais detalhes nos requisitos
+- Documentar melhor os passos para novos membros da equipe
